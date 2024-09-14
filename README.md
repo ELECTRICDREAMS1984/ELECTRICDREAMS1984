@@ -1,7 +1,7 @@
 # about-me
 <p align="center">
   <img src="https://64.media.tumblr.com/8c372898bf9f54736117db8af6f76d0b/0674da4d685d3dc2-54/s1280x1920/5d4f83094f32954ccdedd7e97d1d5a3be7e9fa18.gifv" width="600px">
-  <br><br> <img src="" width="100px">
+  <br><br> <img src="https://64.media.tumblr.com/98ec56b1cf370f98204f2b4540c4af9e/895d4aefe9d0d722-e8/s2048x3072/db169b19e21303d5c74aa16f7f44f376311e0580.pnj" width="300px">
   <br><br> <b>placeholder</b>
   </p>
 <p align="center">
